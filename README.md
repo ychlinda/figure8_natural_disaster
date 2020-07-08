@@ -6,6 +6,7 @@
 3. The result will be used by relevant disaster relief agencies to reduce response time and potentially save more lives.
 
 ### Screenshot of the Web App
+https://github.com/ychlinda/figure8_natural_disaster/blob/master/webapp_screenshot.jpg
 
 ### Project Structure
 
